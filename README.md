@@ -1,1 +1,2 @@
 # odin_recipes
+This README file is my first real project that involves GIT and GITHUB so far, its been an intreting journey and im suprised how quick i am picknig up with GIT version control. See you on the ever Dynamic path to CODING
